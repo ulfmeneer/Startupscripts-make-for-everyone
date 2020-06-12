@@ -5,4 +5,4 @@ tutorial for minecraft server install
 3. Open the terminal
 4. Go to your Download directory
 5. Edit USERNAME to your username and VERSION to the minecraft version
-run it with ./spigot.sh
+6. run it with ./spigot.sh
