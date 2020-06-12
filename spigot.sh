@@ -11,7 +11,7 @@ mkdir /home/USERNAME/minecraft/server
 cp /home/USERNAME/spigot/spigot-VERSION.jar /home/USERNAME/minecraft/server
 cd /home/pi/minecraft/server
 java -jar spigot-VERSION.jar
-echo open eula.txt en edit false to true save this file
+echo open eula.txt en edit false to true en save this file
 java-jar spigot-VERSION.jar
 stop
-echo hurray, your server is created, you can start the server in folder /home/pi/minecraft/server with command java -jar spigot-VERSION.jar
+echo hurray, your server is created, you can start the server in folder /home/pi/minecraft/server with command java -Xmx1G -jar spigot-VERSION.jar
